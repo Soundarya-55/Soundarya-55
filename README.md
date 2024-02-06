@@ -1,6 +1,6 @@
 ## Hi there 👋 👋, this is Soundarya
 
-A self-taught AWS Cloud/DevOps Engineer<br>👀 I’m interested in AWS Cloud , DevOps, Linux and Python<br>👨‍🎓 I’m currently learning Cloud, DevOps, AWS, Kubernetes, Terraform, Linux, Python Django
+A self-taught AWS Cloud/DevOps Engineer<br>👀 I’m interested in AWS Cloud , DevOps, Linux and Python<br>👨‍🎓 I’m currently learning Cloud, DevOps, AWS, Kubernetes, Terraform, Linux, Python 
 
 ## Seeking entry level DevOps/AWS cloud Engineer
 - 👨‍🎓 I’m currently learning Cloud,DevOps,AWS,Kubernetes,Terraform,Linux,Python
