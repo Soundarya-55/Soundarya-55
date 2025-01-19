@@ -12,7 +12,7 @@ A self-taught AWS Cloud/DevOps Engineer<br>👀 I’m interested in AWS Cloud , 
 
 # 💻 Tech Stack:
 
-Skills: -> DevOps / Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Shell Scripting
+Skills: -> DevOps / Linux / Git and GitHub / Docker / Ansible / Terraform / Jenkins / GitHub Actions / Kubernetes / AWS / Shell Scripting / Python / Bash / Prometheus / Grafana
 
 Other skills: -> HTML / C programming / C++ / XML / MySQL / Firebase / Basics of Java / Android studio / MS Office
 
