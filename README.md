@@ -8,7 +8,7 @@ A self-taught AWS Cloud/DevOps Engineer<br>👀 I’m interested in AWS Cloud , 
 - 📫 you can reach me on soundaryaraj5528@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/.soun_darya._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soundarya-g5/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/.soun_darya._) [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soundarya-g5/](https://www.linkedin.com/in/soundarya-g5/)) 
 
 # 💻 Tech Stack:
 
